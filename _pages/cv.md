@@ -42,9 +42,9 @@ Experience
 Teaching
 ======
 * **Teaching Assistant**, University of Nevada, Las Vegas — *Aug 2022 – Present*
-  * ME 425/625 – Robotics I (Mechanisms and Algorithms), Instructor — Jan 2024 – May 2024; Jan 2025 – May 2025
-  * ME 423L – Instrumentation and Control Laboratory, Instructor — Aug 2022 – Dec 2024; Jan 2023 – May 2023
-  * ME 302 – Material Mechanics, Instructor — Jul 2024 – Aug 2024
+  * ME 425/625 – Robotics I (Mechanisms and Algorithms), Instructor — *Jan 2024 – May 2025*
+  * ME 423L – Instrumentation and Control Laboratory, Instructor — *Aug 2022 – Dec 2024*
+  * ME 302 – Material Mechanics, Instructor — *Jul 2024 – Aug 2024*
 
 Education
 ======
