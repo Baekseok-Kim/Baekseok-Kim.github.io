@@ -9,4 +9,3 @@ citation: 'Noh, Y., Kim, B., &amp; Oh, P. (2026). &quot;A Lightweight AI-Ready H
 bibtexurl: '/files/publications.bib'
 ---
 
-Recommended citation: Noh, Y., Kim, B., & Oh, P. (2026). "A Lightweight AI-Ready Humanoid Leg Platform for Hybrid Control Using Residual RL." *CCWC*.

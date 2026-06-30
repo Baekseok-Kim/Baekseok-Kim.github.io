@@ -9,4 +9,3 @@ citation: 'Vaz, J. C., Kosanovic, N., Kim, B., &amp; Oh, P. Y. (2023). &quot;Rea
 bibtexurl: '/files/publications.bib'
 ---
 
-Recommended citation: Vaz, J. C., Kosanovic, N., Kim, B., & Oh, P. Y. (2023). "Real-Time Joint Trajectory Optimization and Predictive Safety Filtering for Telepresence Avatar Robotics." *ICAR*. 395-401.

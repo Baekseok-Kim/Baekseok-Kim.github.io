@@ -9,4 +9,3 @@ citation: 'Kim, B., &amp; Oh, P. (2025). &quot;A Simplified Underactuated Platfo
 bibtexurl: '/files/publications.bib'
 ---
 
-Recommended citation: Kim, B., & Oh, P. (2025). "A Simplified Underactuated Platform for AI-Ready Bipedal Walking Control: The Stilt-bot." *ACC*. 3782-3787.

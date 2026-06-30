@@ -9,4 +9,3 @@ citation: 'Kim, B., Kassai, N., Castrejon, Z., Kosanovic, N., Vaz, J. C., &amp; 
 bibtexurl: '/files/publications.bib'
 ---
 
-Recommended citation: Kim, B., Kassai, N., Castrejon, Z., Kosanovic, N., Vaz, J. C., & Oh, P. (2024). "Approach of Team Avatar-Hubo to the ANA Avatar XPRIZE Finals." *RO-MAN*.

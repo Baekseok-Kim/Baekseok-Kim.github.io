@@ -9,4 +9,3 @@ citation: 'Yang, S., Kim, B., Ahn, J., Ha, D., &amp; Choi, H. (2016). &quot;Rese
 bibtexurl: '/files/publications.bib'
 ---
 
-Recommended citation: Yang, S., Kim, B., Ahn, J., Ha, D., & Choi, H. (2016). "Research of Human Assistive Robot using Soft Actuator." *KROC*.

@@ -9,4 +9,3 @@ citation: 'Kim, B., &amp; Oh, P. (2026). &quot;Pre-IK Residual RL for Robust Hum
 bibtexurl: '/files/publications.bib'
 ---
 
-Recommended citation: Kim, B., & Oh, P. (2026). "Pre-IK Residual RL for Robust Humanoid Loco-Manipulation under Interaction Wrenches."

@@ -9,4 +9,3 @@ citation: 'Kim, Y., Park, C., Kim, B., Song, H., &amp; Han, J. (2018). &quot;Stu
 bibtexurl: '/files/publications.bib'
 ---
 
-Recommended citation: Kim, Y., Park, C., Kim, B., Song, H., & Han, J. (2018). "Study on Development of Force Sensor Based on FSR for Ski Robot's ZMP Measurement." *KROC*. 150-150.

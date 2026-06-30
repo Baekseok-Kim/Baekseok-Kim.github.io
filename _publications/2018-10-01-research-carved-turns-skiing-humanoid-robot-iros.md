@@ -10,6 +10,3 @@ citation: 'Han, J., Yoon, D., Song, H., Kim, B., Kim, Y., Park, C., Eum, Y., &am
 bibtexurl: '/files/publications.bib'
 ---
 
-<a href='https://doi.org/10.1109/IROS.2018.8593796'>Download paper here</a>
-
-Recommended citation: Han, J., Yoon, D., Song, H., Kim, B., Kim, Y., Park, C., Eum, Y., & Moon, J.-I. (2018). "Research on Carved Turns of a Skiing Humanoid Robot on a Real-World Slope." *IROS*. 1-9.

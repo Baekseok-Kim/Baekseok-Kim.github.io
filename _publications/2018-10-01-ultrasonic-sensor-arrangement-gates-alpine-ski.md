@@ -9,4 +9,3 @@ citation: 'Park, C., Kim, Y., Kim, B., Yoon, D., &amp; Han, J. (2018). &quot;The
 bibtexurl: '/files/publications.bib'
 ---
 
-Recommended citation: Park, C., Kim, Y., Kim, B., Yoon, D., & Han, J. (2018). "The Research of the Way to Make an Arrangement of Ultrasonic Sensor to Measure the Distance of Gates on Alpine Ski Tournament." *KRS Annual Conference*.

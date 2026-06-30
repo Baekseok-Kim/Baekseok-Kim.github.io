@@ -10,6 +10,3 @@ citation: 'Park, C., Kim, B., Kim, Y., Eum, Y., Song, H., Yoon, D., Moon, J., &a
 bibtexurl: '/files/publications.bib'
 ---
 
-<a href='https://doi.org/10.3390/s22030816'>Download paper here</a>
-
-Recommended citation: Park, C., Kim, B., Kim, Y., Eum, Y., Song, H., Yoon, D., Moon, J., & Han, J. (2022). "Carved Turn Control with Gate Vision Recognition of a Humanoid Robot for Giant Slalom Skiing on Ski Slopes." *Sensors*. 22(3), 816.

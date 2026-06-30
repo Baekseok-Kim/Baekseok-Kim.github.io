@@ -9,4 +9,3 @@ citation: 'Kim, Y., Song, H., Kim, B., Moon, J.-I., &amp; Han, J. (2018). &quot;
 bibtexurl: '/files/publications.bib'
 ---
 
-Recommended citation: Kim, Y., Song, H., Kim, B., Moon, J.-I., & Han, J. (2018). "Inverse Kinematics Analysis and the Development of the Motion Simulator for Skiing Robot Based on ROS." *KRS Annual Conference*.

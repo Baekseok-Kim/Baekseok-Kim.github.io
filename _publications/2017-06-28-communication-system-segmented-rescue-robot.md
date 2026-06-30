@@ -9,4 +9,3 @@ citation: 'Shin, S., Yoon, D., Song, H., Kim, B., &amp; Han, J. (2017). &quot;Co
 bibtexurl: '/files/publications.bib'
 ---
 
-Recommended citation: Shin, S., Yoon, D., Song, H., Kim, B., & Han, J. (2017). "Communication System of a Segmented Rescue Robot Utilizing Socket Programming and ROS." *URAI*. 565-569.

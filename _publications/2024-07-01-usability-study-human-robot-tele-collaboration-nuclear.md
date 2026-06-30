@@ -9,4 +9,3 @@ citation: 'Kim, B., Kassai, N., &amp; Oh, P. Y. (2024). &quot;Usability Study of
 bibtexurl: '/files/publications.bib'
 ---
 
-Recommended citation: Kim, B., Kassai, N., & Oh, P. Y. (2024). "Usability Study of a Human-Robot Tele-Collaboration System for Nuclear Glove Boxes and Isolators." *UR*. 214-219.

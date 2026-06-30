@@ -9,4 +9,3 @@ citation: 'Kim, B., Kim, Y., &amp; Han, J. (2018). &quot;A Study on the Analysis
 bibtexurl: '/files/publications.bib'
 ---
 
-Recommended citation: Kim, B., Kim, Y., & Han, J. (2018). "A Study on the Analysis and Simulation of Dynamic Mechanism of Ski Robot Running." *KSPE*. 61-61.

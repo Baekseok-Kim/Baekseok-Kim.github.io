@@ -9,4 +9,3 @@ citation: 'Kim, Y., Park, C., Kim, B., Song, H., &amp; Han, J. (2018). &quot;The
 bibtexurl: '/files/publications.bib'
 ---
 
-Recommended citation: Kim, Y., Park, C., Kim, B., Song, H., & Han, J. (2018). "The Development of the ZMP Control System to Improve the Stability of a Skiing Robot." *KSPE*. 73-73.

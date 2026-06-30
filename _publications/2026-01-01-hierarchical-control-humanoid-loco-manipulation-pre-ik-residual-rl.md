@@ -10,6 +10,3 @@ citation: 'Kim, B., &amp; Oh, P. (2026). &quot;A Hierarchical Control Architectu
 bibtexurl: '/files/publications.bib'
 ---
 
-Accepted.
-
-Recommended citation: Kim, B., & Oh, P. (2026). "A Hierarchical Control Architecture for Humanoid Loco-Manipulation with Pre-IK Residual RL." *ICSEng*.
