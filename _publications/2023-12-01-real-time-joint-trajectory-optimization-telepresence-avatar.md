@@ -1,0 +1,12 @@
+---
+title: "Real-Time Joint Trajectory Optimization and Predictive Safety Filtering for Telepresence Avatar Robotics"
+collection: publications
+category: conferences
+permalink: /publication/2023-12-01-real-time-joint-trajectory-optimization-telepresence-avatar
+date: 2023-12-01
+venue: '2023 21st International Conference on Advanced Robotics (ICAR), IEEE'
+citation: 'Vaz, J. C., Kosanovic, N., Kim, B., &amp; Oh, P. Y. (2023). &quot;Real-Time Joint Trajectory Optimization and Predictive Safety Filtering for Telepresence Avatar Robotics.&quot; <i>ICAR</i>. 395-401.'
+bibtexurl: '/files/publications.bib'
+---
+
+Recommended citation: Vaz, J. C., Kosanovic, N., Kim, B., & Oh, P. Y. (2023). "Real-Time Joint Trajectory Optimization and Predictive Safety Filtering for Telepresence Avatar Robotics." *ICAR*. 395-401.
