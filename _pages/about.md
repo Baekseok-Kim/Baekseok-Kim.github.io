@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Mechanical Engineering at the [University of Nevada, Las Vegas (UNLV)](https://www.unlv.edu/), advised by [Prof. Paul Y. Oh](https://www.unlv.edu/people/paul-oh). I work in the Design and Automation Systems Laboratory (DASL), where my research focuses on **humanoid locomotion**, **loco-manipulation**, and **learning-based whole-body control**.
+I am a Ph.D. candidate in Mechanical Engineering at the [University of Nevada, Las Vegas (UNLV)](https://www.unlv.edu/), advised by [Prof. Paul Y. Oh](https://www.unlv.edu/people/paul-oh). I work in the Drones and Autonomous Systems Laboratory (DASL), where my research focuses on **humanoid locomotion**, **loco-manipulation**, and **learning-based whole-body control**.
 
 Research Interests
 ======
