@@ -1,0 +1,18 @@
+/* Mechanical portfolio: scoped to project pages and the portfolio index. */
+.mechanical-project figure { margin: 1.25rem 0; }
+.mechanical-project figure img { display:block; width:100%; max-height:440px; object-fit:contain; background:#fff; }
+.mechanical-project figcaption { font-size:.8em; text-align:center; margin-top:.4rem; opacity:.85; }
+.mechanical-project .project-gallery { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1.2rem; }
+.mechanical-project .project-gallery figure { margin:.3rem 0; }
+.mechanical-project .project-gallery img { height:260px; }
+.mechanical-project video { display:block; width:100%; max-height:480px; background:#101010; }
+.mechanical-project iframe { width:100%; aspect-ratio:16/9; height:auto; }
+.mechanical-project h2, .portfolio-index section { scroll-margin-top:5rem; }
+.portfolio-index .portfolio-categories { display:flex; gap:1.4rem; flex-wrap:wrap; margin:1.4rem 0 2rem; }
+.portfolio-index .mechanical-list { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:1.8rem; }
+.portfolio-index .mechanical-list article { min-width:0; }
+.portfolio-index .mechanical-list img { width:100%; height:190px; object-fit:contain; background:#fff; }
+.portfolio-index .mechanical-list h3 { margin:.6rem 0 .4rem; font-size:1.05em; }
+.portfolio-index .mechanical-list p { font-size:.87em; margin:.4rem 0; }
+.portfolio-index section { margin-bottom:3rem; }
+@media(max-width:600px) { .mechanical-project .project-gallery,.portfolio-index .mechanical-list {grid-template-columns:1fr;} .mechanical-project .project-gallery img {height:auto;max-height:360px;} }

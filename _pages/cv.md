@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<p><a href="{{ base_path }}/files/CV.pdf" class="btn btn--primary">Download CV (PDF)</a></p>
+<p><a href="{{ base_path }}/files/CV.pdf" class="btn btn--primary">Research CV (PDF)</a> <a href="{{ base_path }}/files/Mechanical_Engineer_CV_Portfolio.pdf" class="btn">Mechanical CV &amp; Portfolio (PDF)</a> <a href="{{ base_path }}/files/Mechanical_Engineer_CV.pdf">One-page mechanical CV</a></p>
 
 Skills
 ======

@@ -22,6 +22,15 @@ My doctoral research centers on building practical humanoid platforms and contro
 
 Before UNLV, I earned an M.S. in Interdisciplinary Robot Engineering Systems from Hanyang University, where I developed simulation and control tools for a skiing humanoid robot. I also spent three years as a robotics engineer at Global Zeus (ZEUS Co., Ltd.) in South Korea, leading the development of parallel and SCARA industrial robots and their motion-control systems.
 
+Mechanical Design Portfolio
+======
+My engineering work also spans industrial robot mechanisms, actuator and joint modules, geometric calibration, and prototype testing. Explore the [mechanical design portfolio](/portfolio/#mechanical-design) for CAD, analysis and fabrication details, including project videos.
+
+- [Industrial delta robot](/portfolio/industrial-delta-design/): modular joints, calibration, dynamics and hardware validation
+- [SCARA module and calibration](/portfolio/scara-design-calibration/): Z-roll mechanism, assembly-error compensation and trajectory optimization
+- [Custom reduction mechanism](/portfolio/custom-reduction-mechanism/): a 9:1 prototype and 51:1 hollow-center design
+- Additional work on skiing humanoids, rescue robots, exhibition robots and human-powered aircraft
+
 Selected Highlights
 ======
 - ANA Avatar XPRIZE finalist with Team Avatar-Hubo (lead control engineer)

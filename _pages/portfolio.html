@@ -4,11 +4,36 @@ title: "Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
-
-{% include base_path %}
-
-
-{% for post in site.portfolio reversed %}
+<link rel="stylesheet" href="{{ '/assets/css/mechanical-portfolio.css' | relative_url }}">
+<div class="portfolio-index">
+<p>Mechanical design, prototype development and robotics research, from industrial mechanisms to humanoid control.</p>
+<nav class="portfolio-categories" aria-label="Portfolio categories">
+  <a href="#mechanical-design">Mechanical Design</a>
+  <a href="#robotics-control">Robotics &amp; Control</a>
+</nav>
+<section id="mechanical-design">
+<h2>Mechanical Design</h2>
+<p>Mechanisms, CAD and analysis, fabrication, calibration and testing.</p>
+<p><a href="{{ '/files/Mechanical_Engineer_CV_Portfolio.pdf' | relative_url }}">Download mechanical CV &amp; portfolio (PDF)</a></p>
+<div class="mechanical-list">
+{% assign mechanical = site.portfolio | where: "category", "mechanical-design" | sort: "portfolio_order" %}
+{% for post in mechanical %}
+<article>
+<a href="{{ post.url | relative_url }}"><img loading="lazy" src="{{ post.thumbnail | relative_url }}" alt="{{ post.title | escape }}"></a>
+<h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+<p>{{ post.project_period }}</p>
+<p>{{ post.excerpt | strip_html }}</p>
+</article>
+{% endfor %}
+</div>
+<p><a href="{{ '/portfolio/industrial-robot-zeus/' | relative_url }}">Industrial robotics overview and company demonstration</a></p>
+</section>
+<section id="robotics-control">
+<h2>Robotics &amp; Control</h2>
+<p>Humanoid locomotion, loco-manipulation, reinforcement learning and teleoperation.</p>
+{% assign research = site.portfolio | where: "category", "robotics-control" | sort: "date" | reverse %}
+{% for post in research %}
   {% include archive-single.html %}
 {% endfor %}
-
+</section>
+</div>

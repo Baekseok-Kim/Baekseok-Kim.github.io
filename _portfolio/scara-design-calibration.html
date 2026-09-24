@@ -1,0 +1,76 @@
+---
+title: "SCARA Robot: Module Design and Calibration"
+excerpt: "Z-roll module development, assembly-error compensation and torque-speed-aware trajectory optimization."
+collection: portfolio
+category: mechanical-design
+portfolio_order: 2
+project_period: "Global Zeus / 2019\u20132021"
+thumbnail: /images/mechanical/s18_00.jpg
+permalink: /portfolio/scara-design-calibration/
+---
+
+
+<link rel="stylesheet" href="{{ "/assets/css/mechanical-portfolio.css" | relative_url }}">
+
+<div class="mechanical-project">
+<nav aria-label="Project sections"><a href="#gallery">Design gallery</a> · <a href="#videos">Project videos</a></nav>
+
+<p><a href="{{ "/portfolio/#mechanical-design" | relative_url }}">All mechanical design projects</a></p>
+
+<p><strong>Global Zeus / 2019–2021</strong></p>
+
+<p>Z-roll module development, assembly-error compensation and torque-speed-aware trajectory optimization.</p>
+
+<h2>Z-roll module</h2>
+
+<p>Designed and built the SCARA Z-roll module, integrating the linear and rotational mechanism with its actuator arrangement.</p>
+
+<h2>Kinematic calibration</h2>
+
+<p>Extended the kinematic model with manufacturing-error parameters, including an additional angular parameter beyond the conventional DH model.</p>
+
+<p>Developed a geometry-based parameter-estimation method that used the robot’s constraints without deriving a separate Jacobian. Compared workspace measurements before and after calibration.</p>
+
+<h2>Trajectory optimization</h2>
+
+<p>Increased acceleration in the low-speed region, where more motor torque was available, and reduced acceleration at higher speed.</p>
+
+<p>The original same-motion comparison reported a reduction in peak torque of more than 10%. This result describes that test motion, rather than a general cycle-time improvement.</p>
+
+<h2 id="gallery">Design and prototype gallery</h2>
+
+<div class="project-gallery">
+
+<figure><a href="{{ "/images/mechanical/s18_00.jpg" | relative_url }}"><img loading="lazy" src="{{ "/images/mechanical/s18_00.jpg" | relative_url }}" alt="Z-roll module assembly"></a><figcaption>Z-roll module assembly</figcaption></figure>
+
+<figure><a href="{{ "/images/mechanical/s18_01.jpg" | relative_url }}"><img loading="lazy" src="{{ "/images/mechanical/s18_01.jpg" | relative_url }}" alt="Predicted workspace position error"></a><figcaption>Predicted workspace position error</figcaption></figure>
+
+<figure><a href="{{ "/images/mechanical/s19_00.jpg" | relative_url }}"><img loading="lazy" src="{{ "/images/mechanical/s19_00.jpg" | relative_url }}" alt="Kinematic model with manufacturing-error parameters"></a><figcaption>Kinematic model with manufacturing-error parameters</figcaption></figure>
+
+<figure><a href="{{ "/images/mechanical/s26_01.jpg" | relative_url }}"><img loading="lazy" src="{{ "/images/mechanical/s26_01.jpg" | relative_url }}" alt="Geometry-based calibration model"></a><figcaption>Geometry-based calibration model</figcaption></figure>
+
+<figure><a href="{{ "/images/mechanical/s28_00.jpg" | relative_url }}"><img loading="lazy" src="{{ "/images/mechanical/s28_00.jpg" | relative_url }}" alt="Comparison of motor torque and speed during the test motion"></a><figcaption>Comparison of motor torque and speed during the test motion</figcaption></figure>
+
+</div>
+
+<h2 id="videos">Project videos</h2>
+
+<h3 id="scara-z-roll-bench-test">Z-roll bench test</h3>
+
+<video controls playsinline preload="none" poster="{{ "/images/mechanical/scara-z-roll-bench-test.jpg" | relative_url }}"><source src="{{ "/files/mechanical/scara-z-roll-bench-test.mp4" | relative_url }}" type="video/mp4">Your browser does not support embedded video.</video>
+
+<p><a href="{{ "/files/mechanical/scara-z-roll-bench-test.mp4" | relative_url }}">Open video file</a></p>
+
+<h3 id="scara-assembly-test">SCARA assembly test</h3>
+
+<video controls playsinline preload="none" poster="{{ "/images/mechanical/scara-assembly-test.jpg" | relative_url }}"><source src="{{ "/files/mechanical/scara-assembly-test.mp4" | relative_url }}" type="video/mp4">Your browser does not support embedded video.</video>
+
+<p><a href="{{ "/files/mechanical/scara-assembly-test.mp4" | relative_url }}">Open video file</a></p>
+
+<h3 id="scara-motion-test">SCARA motion test</h3>
+
+<video controls playsinline preload="none" poster="{{ "/images/mechanical/scara-motion-test.jpg" | relative_url }}"><source src="{{ "/files/mechanical/scara-motion-test.mp4" | relative_url }}" type="video/mp4">Your browser does not support embedded video.</video>
+
+<p><a href="{{ "/files/mechanical/scara-motion-test.mp4" | relative_url }}">Open video file</a></p>
+
+</div>
